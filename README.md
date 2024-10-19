@@ -64,22 +64,6 @@ My name is Nabiev Eltaj and am a Python developer.
 | [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
-### 🎮 Gaming Storefronts
-| Preview |
-|---------|
-| [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)
-| [![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#)
-| [![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#)
-| [![G2A](https://img.shields.io/badge/G2A-F05F00?logo=g2a&logoColor=fff)](#)
-| [![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#)
-| [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](#)
-| [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)
-| [![Nintendo eShop](https://img.shields.io/badge/Nintendo%20eShop-FF7D00?logo=nintendoswitch&logoColor=fff)](#)
-| [![Origin](https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff)](#)
-| [![PlayStation Store](https://img.shields.io/badge/PlayStation%20Store-%230070D1.svg?logo=Playstation&logoColor=white)](#)
-| [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
-| [![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#)
-
 ### 💻 IDE/Code Editors
 | Preview |
 |---------|
@@ -96,12 +80,6 @@ My name is Nabiev Eltaj and am a Python developer.
 | [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-
-### 📦 Package Managers
-| Preview |
-|---------|
-| [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-| [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
 
 ### 🧑‍💻 Programming Languages
 | Preview |
